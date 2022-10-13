@@ -21,7 +21,7 @@ To use this formula, I selected the first cell (underneath my newly created colu
 I then created a new pivot table that filtered for the Theater parent category and Years. I then added outcomes to values area as well as the columns area, and finally I added the Months (Date Created Converstion) to the rows area. From this result, I charted a line graph and entitled it Theater Outcomes Based on Launch Date. I saved this image here:
 
 I created a new worksheet for Theater Outcomes Based on Launch Date. This included 8 new columns and 9 rows.
-![This is an image](/assets/images/Theater_Outcomes_vs_Launch.png)
+![This is an image](/blob/main/Theater_Outcomes_vs_Launch.png)
 
 I created a new worksheet for Outcomes Based on Goal.
 ![This is an image](https://github.com/imrtech/kickstarter-analysis/blob/5af195e67d7a248d09e8de1a22067418ce6538e2/Outcomes_vs_Goals.png)
