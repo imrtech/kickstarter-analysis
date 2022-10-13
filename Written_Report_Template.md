@@ -12,7 +12,7 @@ The purpose of this analysis was to observe how different campaigns performed in
 The Kickstarter data is comprised of several worksheets. The first worksheet I analyzed was the Kickstarter worksheet which contained 4114 records. 
 
 Step 1: Filter the data by dates
-    Since I needed to filter the data by dates I used empty column U to create a new column header named "Year".  I used the following formula:
+    -   Since I needed to filter the data by dates I used empty column U to create a new column header named "Year".  I used the following formula:
 
     `Year()`
 
@@ -24,7 +24,7 @@ I created a new worksheet for Theater Outcomes Based on Launch Date. This includ
 ![This is an image](/Theater_Outcomes_vs_Launch.png)
 
 I created a new worksheet for Outcomes Based on Goal.
-![This is an image](https://github.com/imrtech/kickstarter-analysis/blob/5af195e67d7a248d09e8de1a22067418ce6538e2/Outcomes_vs_Goals.png)
+![This is an image](/Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Launch Date
